@@ -1,11 +1,8 @@
 # Avada-App
-![Avada App Makes Your Life Easier - Google Chrome 4_10_2025 5_58_58 AM](https://github.com/user-attachments/assets/2c95bd5a-4fbe-47f3-b26c-a2757d9968d2)
+![Avada App Makes Your Life Easier - Google Chrome 4_10_2025 5_58_58 AM](https://github.com/user-attachments/assets/427c607c-0246-404c-b466-1c9e5ff012ae)
 
 
-![Avada App Makes Your Life Easier - Google Chrome 4_10_2025 5_59_38 AM](https://github.com/user-attachments/assets/3a18243a-1a96-4d5d-99bc-891c86470607)
-
-
-
+![Avada App Makes Your Life Easier - Google Chrome 4_10_2025 5_59_38 AM](https://github.com/user-attachments/assets/66199977-4e36-4418-8628-ba7e805d0e96)
 <ul>
   <li><a href="https://aydinnouriweb.github.io/Avada-App/"><strong>Online Demo</strong></a></li>
 <br>
